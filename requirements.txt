@@ -20,7 +20,6 @@ werkzeug==1.0.1
 whoosh==2.7.4
 wtforms==2.2.1
 replicate==0.15.4
-azure-cognitiveservices-vision-computervision
 # dev
 faker==4.0.2
 pathtools==0.1.2
